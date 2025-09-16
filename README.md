@@ -8,9 +8,8 @@
 4. [Challenges Faced & Solutions](#-challenges-faced--solutions)
 5. [Modeling & Performance](#-modeling--performance)
 6. [Tech Stack](#-tech-stack)
-7. [How to Run the Project](#-how-to-run-the-project)
-8. [Future Enhancements](#-future-enhancements)
-9. [Summary](#-summary)
+7. [Future Enhancements](#-future-enhancements)
+8. [Summary](#-summary)
 
 ---
 
@@ -30,11 +29,11 @@ The final system is capable of predicting auto prices with **high accuracy**.
 
 ---
 
-## 📊 Dataset Details
+📊 Dataset Details
 
-* **Source**: [UCI Machine Learning Repository – Automobile Dataset](https://archive.ics.uci.edu/ml/datasets/Automobile)
-* **Size**: 205 rows × 26 columns
-* **Target Variable**: `price`
+Dataset Location: Data.csv on GitHub
+Size: 205 rows × 26 columns
+Target Variable: price
 
 ### Key Features:
 
