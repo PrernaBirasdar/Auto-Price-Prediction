@@ -32,7 +32,9 @@ The final system is capable of predicting auto prices with **high accuracy**.
 📊 Dataset Details
 
 Dataset Location: Data.csv on GitHub
+
 Size: 205 rows × 26 columns
+
 Target Variable: price
 
 ### Key Features:
