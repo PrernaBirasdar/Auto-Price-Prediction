@@ -31,9 +31,9 @@ The final system is capable of predicting auto prices with **high accuracy**.
 
 📊 Dataset Details
 
-Dataset Location: Data.csv on GitHub
+Dataset Location: [Download Data.csv](https://raw.githubusercontent.com/PrernaBirasdar/Auto-Price-Prediction/refs/heads/master/Data.csv)
 
-Size: 205 rows × 26 columns
+Size: ~205 rows × 26 columns
 
 Target Variable: price
 
